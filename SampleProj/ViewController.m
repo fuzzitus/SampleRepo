@@ -7,13 +7,13 @@
 //
 
 //
-// Branch1 //updated by alalude
+// Branch2 //updated by alalude
 //
 
 //Edited by knathan
-// * Bullet 1
-// * Bullet 2
-// * Bullet 3
+// * Bullet 1 - okay
+// * Bullet 2 - needs work
+// * Bullet 3 - finished
 
 #import "ViewController.h"
 
