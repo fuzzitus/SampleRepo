@@ -117,8 +117,6 @@
 		11A7661216F7C38D00B3A843 /* SampleProj */ = {
 			isa = PBXGroup;
 			children = (
-				11A7661B16F7C38D00B3A843 /* AppDelegate.h */,
-				11A7661C16F7C38D00B3A843 /* AppDelegate.m */,
 				11A7662416F7C38D00B3A843 /* MainStoryboard.storyboard */,
 				11A7662716F7C38D00B3A843 /* ViewController.h */,
 				11A7662816F7C38D00B3A843 /* ViewController.m */,
@@ -130,6 +128,8 @@
 		11A7661316F7C38D00B3A843 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				11A7661B16F7C38D00B3A843 /* AppDelegate.h */,
+				11A7661C16F7C38D00B3A843 /* AppDelegate.m */,
 				11A7661416F7C38D00B3A843 /* SampleProj-Info.plist */,
 				11A7661516F7C38D00B3A843 /* InfoPlist.strings */,
 				11A7661816F7C38D00B3A843 /* main.m */,
@@ -453,6 +453,7 @@
 				11A7664316F7C38E00B3A843 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		11A7664416F7C38E00B3A843 /* Build configuration list for PBXNativeTarget "SampleProjTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +462,7 @@
 				11A7664616F7C38E00B3A843 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
