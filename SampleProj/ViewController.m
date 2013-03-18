@@ -10,6 +10,8 @@
 // Master Branch
 //
 
+// Notes on a hotfix
+
 #import "ViewController.h"
 
 @interface ViewController ()
